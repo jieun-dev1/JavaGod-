@@ -37,7 +37,5 @@ public class ProfilePrint {
 		System.out.println("My age is " + prof.getAge());
 		System.out.println("My Name is " + prof.getName());
 		System.out.println("My Marriage is " + prof.isMarried());
-
 	}
-
 }
